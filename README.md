@@ -1,8 +1,8 @@
 # DompetKeluarga — Anggaran Rumah Tangga
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-2e7d5b)](https://make.fun/bounty/best-household-budget-site-20261126-1457)
-[![Node](https://img.shields.io/badge/node-%3E%3D22-339933)](https://nodejs.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · best-household-budget-site-20261126-1457](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/dwi085/makefun-budget-site-20261126/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/dwi085/makefun-budget-site-20261126/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
 
 Situs anggaran rumah tangga yang berjalan penuh dari file statis — tanpa
 build step, tanpa koneksi internet. Dibuat untuk kompetisi make.fun
